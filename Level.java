@@ -1,6 +1,4 @@
 /**
- * Yarik Popov
- * ICS3U1-16, Mr. Matchen
  * May 14, 2021
  * This class handles the values related to a single level in the game.
  *The logic is handles by the MyProgram.java class 

@@ -1,6 +1,4 @@
 /**
- * Yarik Popov
- * ICS3U1-16, Mr. Matchen
  * April 23, 2021
  * This is the Weapon class. It handles logic behind the melee weapons
  * a basic weapon type. 

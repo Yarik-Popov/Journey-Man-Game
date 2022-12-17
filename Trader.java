@@ -1,6 +1,4 @@
 /**
- * Yarik Popov
- * ICS3U1-16, Mr. Matchen
  * April 26, 2021
  * This is the Trader class, it handles the random trading half way through
  * the journey

@@ -1,6 +1,4 @@
 /**
- * Yarik Popov
- * ICS3U1-16, Mr. Matchen
  * April 25, 2021
  * This class handles the variables and logic related to Npcs. 
  * */

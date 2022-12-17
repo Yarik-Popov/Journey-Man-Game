@@ -1,6 +1,4 @@
 /**
- * Yarik Popov
- * ICS3U1-16, Mr. Matchen
  * April 26, 2021
  * This is the Monster class, it handles the values related to a single
  * monster. It deals and takes damage. Can't steal resources

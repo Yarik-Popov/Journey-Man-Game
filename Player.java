@@ -1,6 +1,4 @@
 /**
- * Yarik Popov
- * ICS3U1-16, Mr. Matchen
  * May 28, 2021
  * This class handles the logic and values related
  * to a single player object. It doesn't handle user

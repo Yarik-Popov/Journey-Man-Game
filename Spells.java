@@ -1,6 +1,4 @@
 /**
- * Yarik Popov
- * ICS3U1-16, Mr. Matchen
  * April 25, 2021,
  * This class handles the values related to spell in the combat system
  * of the game. The logic behind the spells will be handled by the Player

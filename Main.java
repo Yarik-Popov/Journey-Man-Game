@@ -1,6 +1,4 @@
 /**
- * Yarik Popov
- * ICS3U1-16, Mr. Matchen
  * May 18, 2021,
  * This class is the main class it has the run method, and it takes in user inputs.
  * Refactored

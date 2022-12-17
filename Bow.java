@@ -1,6 +1,4 @@
 /**
- * Yarik Popov
- * ICS3U1-16, Mr. Matchen
  * April 24, 2021
  * This class handles the logic and values behind use of the bow in the game
  * */

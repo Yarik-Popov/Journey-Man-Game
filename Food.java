@@ -1,6 +1,4 @@
 /**
- * Yarik Popov
- * ICS3U1-16, Mr. Matchen
  * April 21, 2021
  * This is the food class what will be used in the game. It handles the 
  * food of the player and the transport (some animal)

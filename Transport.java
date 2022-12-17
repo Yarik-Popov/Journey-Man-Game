@@ -1,6 +1,4 @@
 /**
- * Yarik Popov
- * ICS3U1-16, Mr. Matchen
  * May 22, 2021
  * This is the transport class it is a way that the user can travel.
  * */
